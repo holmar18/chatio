@@ -5,3 +5,7 @@
 ## To run
 
 _NPM START_
+
+# Sample
+
+![Sample](/src/assets/sampleIMG.png)
