@@ -1,6 +1,6 @@
 # Descrition
 
-> Socket chat app.
+> Socker chat app.
 
 ## To run Client and server
 
