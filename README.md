@@ -4,7 +4,7 @@
 
 ## To run Client and server
 
-_docket-compose up_
+_docker-compose up_
 
 # Sample
 
